@@ -71,6 +71,7 @@ Dil dosyaları resources/lang/vendor/carbon-macros/{locale}/messages.php konumun
 ```php
 // config/app.php
 'timezone' => 'Europe/Istanbul',
+'locale' => 'tr',
 ```
 
 ### Bağımlılıkları Yükleyin:
